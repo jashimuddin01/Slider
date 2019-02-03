@@ -1,0 +1,35 @@
+.header {
+	background-image: url(../images/person1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.slider {
+	background-color: rgba(100,100,100,0.5);
+}
+
+.content {
+	padding: 175px 50px;
+}
+
+.content h1 {
+	margin-bottom: 50px;
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+.ci {
+   bottom: 20px;
+}
+
+.ci li {
+    width: 10px;
+    height: 10px;
+    border-radius: 70%;
+    background-color: orange;
+}
